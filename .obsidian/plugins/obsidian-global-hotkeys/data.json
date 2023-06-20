@@ -1,0 +1,8 @@
+{
+  "accelerators": {
+    "obsidian-editor-shortcuts:goToPrevChar": "Ctrl+B",
+    "obsidian-editor-shortcuts:moveCursorDown": "Ctrl+N",
+    "obsidian-editor-shortcuts:goToNextChar": "Ctrl+F",
+    "obsidian-editor-shortcuts:moveCursorUp": "Ctrl+P"
+  }
+}
