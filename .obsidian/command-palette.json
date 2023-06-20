@@ -1,5 +1,6 @@
 {
   "pinned": [
+    "editor:save-file",
     "obsidian-git:pull",
     "obsidian-git:push2",
     "obsidian-git:commit",
