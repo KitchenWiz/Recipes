@@ -1,3 +1,21 @@
 [
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-excalidraw-plugin",
+  "dataview",
+  "table-editor-obsidian",
+  "obsidian-binary-file-manager-plugin",
+  "obsidian-editor-shortcuts",
+  "colored-text",
+  "editing-toolbar",
+  "editor-commands-remap",
+  "format-hotkeys-obsidian",
+  "obsidian-global-hotkeys",
+  "highlightr-plugin",
+  "hotkeysplus-obsidian",
+  "obsidian-key-sequence-shortcut",
+  "keyshots",
+  "kill-and-yank",
+  "nldates-obsidian",
+  "obsidian42-brat",
+  "obsidian-plugin-groups"
 ]

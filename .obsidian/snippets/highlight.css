@@ -1,0 +1,43 @@
+/* Highlight */
+
+.theme-dark {
+--TextColorHighlightMarkEditor: #abb5ff; /* == */
+--TextColorHighlightMarkPreview: #abb5ff; /* == */
+}
+
+/* Highlight */
+.cm-s-obsidian span.cm-formatting-highlight, .cm-s-obsidian span.cm-highlight {
+    color: var(--TextColorHighlightMarkEditor);
+    background-color: var(--background-primary);
+}
+
+.markdown-preview-view mark { 
+    color: var(--TextColorHighlightMarkPreview);
+    background-color: var(--background-primary);
+}
+
+/*for "Source mode" and "Live Preview"*/
+/*https://forum.obsidian.md/t/how-to-change-header-color-in-editor-mode/32706*/
+.cm-header-1 { color:#a2acf3; font-weight: 500; }
+.cm-header-2 { color:#90dfaa; font-weight: 500;  }
+.cm-header-3 { color:#81c1df; font-weight: 500;  }
+.cm-header-4 { color:#8baddf; font-weight: 500;  }
+.cm-header-5 { color:#74dbca; font-weight: 500;  }
+.cm-header-6 { color:#909cdf; font-weight: 500;  }
+/*
+.cm-header-1 { color:#a2acf3; }
+.cm-header-2 { color:#74dbca; }
+.cm-header-3 { color:#df8b8b; }
+.cm-header-4 { color:#81c1df; }
+.cm-header-5 { color:#90dfaa; }
+.cm-header-6 { color:#909cdf; }
+*/
+
+body {
+    --h1-size: 1.2em;
+    --h2-size: 1em;
+    --h3-size: 1em;
+    --h4-size: 1em;
+    --h5-size: 1em;
+    --h6-size: 1em;
+}
