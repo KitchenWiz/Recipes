@@ -362,6 +362,32 @@
         "Shift"
       ],
       "key": "O"
+    },
+    {
+      "modifiers": [],
+      "key": "F5"
+    }
+  ],
+  "open-with-default-app:open": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "E"
+    }
+  ],
+  "obsidian-git:push": [
+    {
+      "modifiers": [],
+      "key": "F9"
+    }
+  ],
+  "obsidian-git:commit-push-specified-message": [
+    {
+      "modifiers": [],
+      "key": "F8"
     }
   ]
 }
