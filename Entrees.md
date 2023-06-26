@@ -1,7 +1,7 @@
 
 # Food
 
-Recipe ideas
+## Recipe ideas
 - Existing recipes from cook'n and whisk 🍲
 - New pretzel recipe 🥨 
 - Recipes with basil? 🌿
